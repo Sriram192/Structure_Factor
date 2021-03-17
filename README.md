@@ -10,3 +10,5 @@ $$\left[S(k) = 1+4 \pi \rho\int_0^\infty r (g(r)-1) \frac{sin(kr)}{k}dr\right]^+
 \+  A. Filipponi, "The radial distribution function probed by X-ray absorption spectroscopy", Journal of Physics: Condensed Matter 6 pp. 8415-8427 (1994)
 
 ![alt text](g_r.jpg?raw=true "RDF")
+
+![alt text](struct_fact.jpg?raw=true "Structure Factor")
